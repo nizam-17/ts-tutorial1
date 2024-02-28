@@ -4,7 +4,7 @@ type SectionProps = {
   title?: string;
   children: ReactNode;
 };
-const Section = ({ title="My Subheading", children }: SectionProps) => {
+const Section = ({ title="Feb 28 2024", children }: SectionProps) => {
   return (
     <div>
       {" "}

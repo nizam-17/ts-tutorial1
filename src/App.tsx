@@ -5,8 +5,8 @@ import List from "./components/List";
 function App() {
   return (
     <>
-      <Heading title={"8"} />
-      <Section>nnn</Section>
+      <Heading title={"TypeScript Basics"} />
+      <Section>Typescript Tutorial From Youtube</Section>
       <Counter />
       <List
         items={["☕ Coffee", "🍟 Fries", "👨‍💻 Code"]}
